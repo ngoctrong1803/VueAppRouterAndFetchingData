@@ -1,0 +1,8 @@
+{
+    "data": [
+        { "id": 1, "title": "'Master Web Developer'", "detail": "'detail 1'" },
+        { "id": 2, "title": "'Supper Tester'", "detail": "'detail 2'" },
+        { "id": 3, "title": "'Project Manager'", "detail": "'detail 3'" }
+    ]
+
+}
